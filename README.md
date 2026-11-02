@@ -1,14 +1,21 @@
-# soft-ware-engineering 
-git clone https://github.com/username/repository-name.git
+Collaborator Update
 
-cd repository-name
+This repository is used to demonstrate how to pull the latest changes from GitHub.
 
-notepad README.md
+Changes Made by Collaborator
 
-git status
+Added new information to the README file.
 
-git add README.md
+Updated the project description.
 
-git commit -m "Updated README"
+Added collaborator details.
 
-git push origin main
+Collaborator Name
+
+GitHub Collaborator
+
+Updated Message
+
+Hello! I have successfully modified this repository and pushed the latest changes to GitHub.
+
+Thank you!
